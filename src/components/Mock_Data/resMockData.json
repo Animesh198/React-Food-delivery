@@ -1,0 +1,83 @@
+{
+  "info": {
+    "id": "578055",
+    "name": "Shree Sai Krupa Veg-Nonveg Restaurant",
+    "cloudinaryImageId": "wq5j9ptfoq5ycxw6nppr",
+    "locality": "Tata Nagar",
+    "areaName": "Chandan Nagar",
+    "costForTwo": "₹500 for two",
+    "cuisines": ["Indian", "Chinese", "Snacks", "Biryani", "Tandoor"],
+    "avgRating": 4,
+    "feeDetails": {
+      "restaurantId": "578055",
+      "fees": [
+        {
+          "name": "BASE_DISTANCE",
+          "fee": 8500
+        },
+        {
+          "name": "BASE_TIME"
+        },
+        {
+          "name": "ANCILLARY_SURGE_FEE"
+        }
+      ],
+      "totalFee": 8500
+    },
+    "parentId": "346285",
+    "avgRatingString": "4.0",
+    "totalRatingsString": "1K+",
+    "sla": {
+      "deliveryTime": 32,
+      "lastMileTravel": 6.4,
+      "serviceability": "SERVICEABLE",
+      "slaString": "32 mins",
+      "lastMileTravelString": "6.4 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-11-29 03:00:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {},
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "10% OFF",
+      "subHeader": "UPTO ₹40"
+    },
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {
+    "context": "seo-data-7460d4f0-63ae-4840-ad44-e5ff4e7bbe39"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/restaurants/shree-sai-krupa-veg-nonveg-restaurant-tata-nagar-chandan-nagar-pune-578055",
+    "text": "RESTAURANT_MENU",
+    "type": "WEBLINK"
+  },
+  "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
